@@ -464,7 +464,7 @@ Basically, sorting algorithms are ways to organize an array of items from smalle
 
 Firstly, you need to understand what this program should do. You need to study all the theory that you need and understand which algorithm you want to implement in your code. Secondly, you need to do a pattern to understand how to divide this project into many smaller ones. So, don't panic. I will show you my organization pattern:
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/Push_Swap.png"><img src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/Push_Swap.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/Push_Swap.png"><img src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/Push_Swap.png">
 
 ## Running Tests
 
