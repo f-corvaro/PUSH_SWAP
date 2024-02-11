@@ -552,20 +552,20 @@ You need to select a range of numbers (remember that 0 counts as 1) and generate
 Test the notable cases: 0, 1, 3, 5, 50, 100, 250 and 500 and iterate many times to understand the efficiency.
 
 ### Correction sheet
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs1.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs1.png">
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.csc/s2.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs2.png">
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs3.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs3.png">
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs4.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs4.png">
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs5.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs5.png">
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs6.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs6.png">
 
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs7.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs7.png">
 </p>
 <br>
 
