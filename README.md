@@ -20,7 +20,6 @@
 <h3 align="center">Index</h3>
 
 <p align="center">
-  <a href="#push-swap">PUSH SWAP</a><br>
   <a href="#index">Index</a><br>
   <a href="#folder-structure">Folder Structure</a><br>
   <a href="#about">About</a><br>
