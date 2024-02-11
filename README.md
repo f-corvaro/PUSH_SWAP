@@ -19,15 +19,6 @@
 
 <h3 align="center">Index</h3>
 
-
-# **PUSH SWAP**
-
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/ps.png">
-
-
-
-### Index
-
 <p align="center">
   <a href="#push-swap">PUSH SWAP</a><br>
   <a href="#index">Index</a><br>
@@ -268,7 +259,7 @@ rrr : | rra and rrb at the same time
 
 <p align="justify">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="450" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/example.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="450" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/example.png">
 
 <p>
 <br>
@@ -474,7 +465,7 @@ Basically, sorting algorithms are ways to organize an array of items from smalle
 
 Firstly, you need to understand what this program should do. You need to study all the theory that you need and understand which algorithm you want to implement in your code. Secondly, you need to do a pattern to understand how to divide this project into many smaller ones. So, don't panic. I will show you my organization pattern:
 
-<a href="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/Push_Swap.png"><img src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/Push_Swap.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/Push_Swap.png"><img src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/Push_Swap.png">
 
 ## Running Tests
 
@@ -535,7 +526,7 @@ You need to select a range of numbers (remember that 0 counts as 1) and generate
 
 #### My Push_Swap
 
- <a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/visualizer_my_ps.gif">
+ <a href="https://github.com/f-corvaro/PUSH_SWAP"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/visualizer_my_ps.gif">
 
 ### Testing
 
@@ -562,20 +553,20 @@ You need to select a range of numbers (remember that 0 counts as 1) and generate
 Test the notable cases: 0, 1, 3, 5, 50, 100, 250 and 500 and iterate many times to understand the efficiency.
 
 ### Correction sheet
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs1.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs1.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs2.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.csc/s2.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs3.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs3.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs4.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs4.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs5.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs5.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs6.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs6.png">
 
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-push_swap"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/.extra/.cs/cs7.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/.cs/cs7.png">
 </p>
 <br>
 
