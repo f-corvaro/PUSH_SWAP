@@ -267,7 +267,7 @@ rrr : | rra and rrb at the same time
 
 <p align="justify">
 
-Are provided two programms named checker: one developed for linux and one for mac. You can download it from [here](https://github.com/f-corvaro/42.common_core/blob/main/02-push_swap/resources_given). To use correctly the executables, you need to modify the permissions of these. Run ```chmod 777 "name of the executable"```.
+Are provided two programms named checker: one developed for linux and one for mac. You can download it from [here](https://github.com/f-corvaro/PUSH_SWAP/tree/main/resources_given). To use correctly the executables, you need to modify the permissions of these. Run ```chmod 777 "name of the executable"```.
 
 <p>
 <br>
