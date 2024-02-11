@@ -258,7 +258,7 @@ rrr : | rra and rrb at the same time
 
 <p align="justify">
 
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="450" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/example.png">
+<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="450" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/example.png">
 
 <p>
 <br>
@@ -525,7 +525,7 @@ You need to select a range of numbers (remember that 0 counts as 1) and generate
 
 #### My Push_Swap
 
- <a href="https://github.com/f-corvaro/PUSH_SWAP"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/PUSH_SWAP/tree/main/.extra/visualizer_my_ps.gif">
+ <a href="https://github.com/f-corvaro/PUSH_SWAP"><img align="center" alt="running test" width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/visualizer_my_ps.gif">
 
 ### Testing
 
