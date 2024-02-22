@@ -41,7 +41,6 @@
   <a href="#support-me">Support Me</a><br>
   <a href="#skills-developed">Skills developed</a><br>
   <a href="#sources">Sources</a><br>
-  <a href="#license">License</a><br>
   <a href="#author">Author</a>
 </p>
 
@@ -647,13 +646,6 @@ If you want to support me:</p>
 - [Push Swap — A journey to find most efficient sorting algorithm](https://medium.com/@ayogun/push-swap-c1f5d2d41e97)
 
 - [Fastest Push_Swap Algorithm](https://zainab-dnaya.medium.com/fastest-push-swap-algorithm-2f510028602b)
-<br>
-
-## License
-<p align="center">
-<a href="https://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
-<a href="https://opensource.org/licenses/"><img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License"></a>
-<a href="http://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/license-AGPL-blue.svg" alt="AGPL License"></a>
 <br>
 
 ## Author
