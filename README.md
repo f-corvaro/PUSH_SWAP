@@ -1,10 +1,6 @@
-<h1 align="center">PUSH_SWAP</h1>
-
-<p align="center">
-  <a href="https://github.com/f-corvaro/PUSH_SWAP/tree/main">
+<h1 align="center"><a href="https://github.com/f-corvaro/PUSH_SWAP/tree/main">
 	<img src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/ps.png" alt="PUSH_SWAP">
-  </a>
-</p>
+  </a></h1>
 
 <p align="center">
 	<b><i>"Algorithm that sorts data using two stacks."</i></b><br>
