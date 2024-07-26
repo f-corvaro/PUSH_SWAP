@@ -14,59 +14,55 @@
 </p>
 
 <h3 align="center">Index</h3>
-
 <p align="center">
-
-- [Introduction](#introduction)
-  - [Overview](#overview)
-- [Folder Structure](#folder-structure)
-- [Project Requirements - Mandatory Part](#project-requirements---mandatory-part)
-  - [Important Rules and Guidelines](#important-rules-and-guidelines)
-  - [Program name](#program-name)
-  - [Files to Submit](#files-to-submit)
-  - [Allowed External Functions](#allowed-external-functions)
-  - [Project Objective](#project-objective)
-    - [Sorting Rules](#sorting-rules)
-    - [Example](#example)
-    - [Requirements](#requirements)
-    - [Provided Resources](#provided-resources)
-    - [Usage Examples](#usage-examples)
-    - [Performance Benchmarks](#performance-benchmarks)
-- [Project Requirements - Bonus Part](#project-requirements---bonus-part)
-  - [Program Name](#program-name-1)
-  - [Files to Submit](#files-to-submit-1)
-  - [External functs. allowed:\*\*](#external-functs-allowed)
-  - [Expected Behavior](#expected-behavior)
-  - [Usage Examples](#usage-examples-1)
-- [Theoretical Background](#theoretical-background)
-  - [Data Structures](#data-structures)
-  - [Algorithms](#algorithms)
-    - [Sorting Algorithms](#sorting-algorithms)
-    - [Algorithm Complexity and Efficiency](#algorithm-complexity-and-efficiency)
-    - [Stable Sorting Algorithms](#stable-sorting-algorithms)
-    - [Unstable Sorting Algorithms](#unstable-sorting-algorithms)
-    - [Additional Resources](#additional-resources)
-- [Organizing Your First Major Project](#organizing-your-first-major-project)
-- [Running Tests](#running-tests)
-  - [Memory Leak Detection](#memory-leak-detection)
-    - [Installation](#installation)
-    - [Usage Ubuntu](#usage-ubuntu)
-    - [Usage macOS](#usage-macos)
-  - [Graphical User Interface (GUI) for Testing](#graphical-user-interface-gui-for-testing)
-    - [Installation Steps](#installation-steps)
-    - [How to Use the Visualizer](#how-to-use-the-visualizer)
-  - [Additional Resources](#additional-resources-1)
-- [Evaluation Process](#evaluation-process)
-  - [Testing Your Project](#testing-your-project)
-  - [Correction Sheet](#correction-sheet)
-- [Developed Skills](#developed-skills)
-- [References](#references)
-- [Support and Contributions](#support-and-contributions)
-- [Author](#author)
-
+ <a href="#introduction">Introduction</a><br>
+ <a href="#overview">Overview</a><br>
+ <a href="#folder-structure">Folder Structure</a><br>
+ <a href="#project-requirements---mandatory-part">Project Requirements - Mandatory Part</a><br>
+ <a href="#important-rules-and-guidelines">Important Rules and Guidelines</a><br>
+ <a href="#program-name">Program name</a><br>
+ <a href="#files-to-submit">Files to Submit</a><br>
+ <a href="#allowed-external-functions">Allowed External Functions</a><br>
+ <a href="#project-objective">Project Objective</a><br>
+ <a href="#sorting-rules">Sorting Rules</a><br>
+ <a href="#example">Example</a><br>
+ <a href="#requirements">Requirements</a><br>
+ <a href="#provided-resources">Provided Resources</a><br>
+ <a href="#usage-examples">Usage Examples</a><br>
+ <a href="#performance-benchmarks">Performance Benchmarks</a><br>
+ <a href="#project-requirements---bonus-part">Project Requirements - Bonus Part</a><br>
+ <a href="#program-name-1">Program Name</a><br>
+ <a href="#files-to-submit-1">Files to Submit</a><br>
+ <a href="#external-functs-allowed">External functs. allowed</a><br>
+ <a href="#expected-behavior">Expected Behavior</a><br>
+ <a href="#usage-examples-1">Usage Examples</a><br>
+ <a href="#theoretical-background">Theoretical Background</a><br>
+ <a href="#data-structures">Data Structures</a><br>
+ <a href="#algorithms">Algorithms</a><br>
+ <a href="#sorting-algorithms">Sorting Algorithms</a><br>
+ <a href="#algorithm-complexity-and-efficiency">Algorithm Complexity and Efficiency</a><br>
+ <a href="#stable-sorting-algorithms">Stable Sorting Algorithms</a><br>
+ <a href="#unstable-sorting-algorithms">Unstable Sorting Algorithms</a><br>
+ <a href="#additional-resources">Additional Resources</a><br>
+ <a href="#organizing-your-first-major-project">Organizing Your First Major Project</a><br>
+ <a href="#running-tests">Running Tests</a><br>
+ <a href="#memory-leak-detection">Memory Leak Detection</a><br>
+ <a href="#installation">Installation</a><br>
+ <a href="#usage-ubuntu">Usage Ubuntu</a><br>
+ <a href="#usage-macos">Usage macOS</a><br>
+ <a href="#graphical-user-interface-gui-for-testing">Graphical User Interface (GUI) for Testing</a><br>
+ <a href="#installation-steps">Installation Steps</a><br>
+ <a href="#how-to-use-the-visualizer">How to Use the Visualizer</a><br>
+ <a href="#additional-resources-1">Additional Resources</a><br>
+ <a href="#evaluation-process">Evaluation Process</a><br>
+ <a href="#testing-your-project">Testing Your Project</a><br>
+ <a href="#correction-sheet">Correction Sheet</a><br>
+ <a href="#developed-skills">Developed Skills</a><br>
+ <a href="#references">References</a><br>
+ <a href="#support-and-contributions">Support and Contributions</a><br>
+ <a href="#author">Author</a><br>
 </p>
 <br>
-
 
 ## Introduction
 
@@ -75,6 +71,7 @@
 The push_swap project is a part of the 42 school curriculum and aims to develop a program named `push_swap` that sorts a list of integers using two stacks. The goal of the project is to achieve the lowest possible number of operations to sort the stack A, while adhering to a limited set of instructions and utilizing the stack B.
 
 </p>
+<br>
 
 ### Overview
 
@@ -409,6 +406,8 @@ You do not have to reproduce the exact behavior of the provided binary. It is ma
 
 ### Data Structures
 
+<p align="justify">
+
 - **Stacks**: Stacks are a type of data structure that follows the LIFO (Last In, First Out) principle. In a stack, the last element added is the first one to be removed. Stacks are commonly used in various applications, including the `push_swap` program.
 
   - **Operations**: Stacks support several operations:
@@ -423,6 +422,8 @@ You do not have to reproduce the exact behavior of the provided binary. It is ma
 
   Stacks are efficient for managing data that needs to be accessed in a last-in, first-out manner. They are widely used in programming and can be implemented using arrays or linked lists.
 
+<p>
+<br>
 
 ### Algorithms
 
@@ -431,6 +432,7 @@ You do not have to reproduce the exact behavior of the provided binary. It is ma
 An algorithm is a step-by-step procedure or set of rules for solving a specific problem or accomplishing a specific task. It is a well-defined sequence of instructions that takes an input and produces an output. Algorithms are used in various fields, including computer science, mathematics, and engineering, to solve complex problems efficiently and effectively. 
 
 <p>
+<br>
 
 #### Sorting Algorithms
 
@@ -439,6 +441,7 @@ An algorithm is a step-by-step procedure or set of rules for solving a specific 
 A sorting algorithm, on the other hand, is a specific type of algorithm that arranges a collection of elements in a particular order. The goal of a sorting algorithm is to rearrange the elements in ascending or descending order, based on a specified comparison criterion. Sorting algorithms are widely used in computer science and data processing to organize and retrieve data efficiently. There are various sorting algorithms available, each with its own advantages and disadvantages in terms of time complexity, space complexity, and stability. Some common sorting algorithms include merge sort, insertion sort, bubble sort, and quicksort. These algorithms employ different techniques and strategies to achieve the desired sorting outcome. Overall, sorting algorithms play a crucial role in data manipulation and analysis, enabling efficient searching, filtering, and processing of large datasets. 
 
 <p>
+<br>
 
 #### Algorithm Complexity and Efficiency
 
@@ -473,6 +476,7 @@ Furthermore, algorithm analysis may consider factors like algorithmic correctnes
 Overall, algorithm analysis is a crucial step in designing and optimizing algorithms. It helps us understand their behavior, make informed decisions, and improve the efficiency and scalability of our programs.
 
 <p>
+<br>
 
 
 #### Stable Sorting Algorithms
@@ -505,12 +509,15 @@ Some examples of unstable sorting algorithms include:
 
 It's important to consider the stability of sorting algorithms when the relative order of equal elements is significant. Stable sorting algorithms are preferred in such cases to ensure the desired order is maintained. However, if the relative order of equal elements is not important or if performance is a priority, unstable sorting algorithms can be more suitable.
 
+<br>
+
 #### Additional Resources
 
 - [Top 10 Sorting Algorithms You Need to Know](https://www.crio.do/blog/top-10-sorting-algorithms/)
 - [Big O Notation Explained](https://www.bigocheatsheet.com/)
 
 </p>
+<br>
 
 ## Organizing Your First Major Project
 
@@ -528,6 +535,7 @@ Firstly, you need to understand what this program should do. You need to study a
 <a href="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/Push_Swap.png"><img src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/Push_Swap.png">
 
 </p>
+<br>
 
 ## Running Tests
 
@@ -547,6 +555,7 @@ print(' '.join(map(str, numbers)))
 You can run this script on this [online Python interpreter](https://www.online-python.com/).
 
 </p>
+<br>
 
 ### Memory Leak Detection
 
@@ -704,6 +713,7 @@ To ensure your project meets all requirements, perform the following tests:
     <img src="https://skillicons.dev/icons?i=git,c,vim,vscode" />
   </a>
 </p><br>
+
 ## References
 
 - [Analysis of Algorithms](https://en.wikipedia.org/wiki/Analysis_of_algorithms) - An overview of algorithm analysis, including time and space complexity.
