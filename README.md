@@ -689,20 +689,26 @@ To ensure your project meets all requirements, perform the following tests:
 
 ### Correction Sheet
 
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs1.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs2.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs3.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs4.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs5.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs6.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs7.png">
-
 </p>
 <br>
 
