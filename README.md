@@ -6,7 +6,6 @@
 	<b><i>"Algorithm that sorts data using two stacks."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-PUSH_SWAP-yellow" /></a>
     <a href="https://github.com/f-corvaro/PUSH_SWAP"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/PUSH_SWAP?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/PUSH_SWAP"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/PUSH_SWAP?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/PUSH_SWAP"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/PUSH_SWAP?color=blueviolet" /></a>
@@ -56,7 +55,6 @@
  <a href="#additional-resources-1">Additional Resources</a><br>
  <a href="#evaluation-process">Evaluation Process</a><br>
  <a href="#testing-your-project">Testing Your Project</a><br>
- <a href="#correction-sheet">Correction Sheet</a><br>
  <a href="#developed-skills">Developed Skills</a><br>
  <a href="#references">References</a><br>
  <a href="#support-and-contributions">Support and Contributions</a><br>
@@ -661,7 +659,7 @@ To use the visualizer for your `push_swap` project, follow these steps:
 
 ### Additional Resources
 
-For automated testing, you can use the [Push_Swap Tester](https://github.com/Aldisti/push_swap-tester) by [Aldisti](https://github.com/Aldisti).
+For automated testing, you can use the [Push_Swap Tester](https://github.com/Aldisti/push_swap-tester) by [Aldisti](https://github.com/Aldisti) or [Push-Swap-Tester](https://github.com/gemartin99/Push-Swap-Tester).
 
 </p>
 <br>
@@ -686,31 +684,6 @@ To ensure your project meets all requirements, perform the following tests:
 4. **Error Management**: Ensure proper error handling.
 5. **Push_Swap Tests**: Test the functionality of your `push_swap` implementation.
 6. **Checker Tests**: Validate the checker program.
-
-### Correction Sheet
-
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs1.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs2.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs3.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs4.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs5.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs6.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PUSH_SWAP"><img width="650" src="https://github.com/f-corvaro/PUSH_SWAP/blob/main/.extra/.cs/cs7.png">
-</p>
-<br>
 
 ## Developed Skills
 
